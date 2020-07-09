@@ -7,7 +7,7 @@ array.sort
 end
 
 def using_reverse(array)
-reverseArray = ["asdasa", "array", "array!"]
+array.reverse
 end
 
 
